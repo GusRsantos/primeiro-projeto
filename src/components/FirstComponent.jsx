@@ -5,7 +5,7 @@ const FirstComponent = () => {
         <div>
         <h1>Criando meu primeiro componente</h1>
         <h2> O mesmo texto 2</h2>
-        <MyComponent/>
+        
         </div>
     )
 }
